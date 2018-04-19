@@ -1,1 +1,1 @@
-# Mathematical-model Homework
+# Mathematical model Homework
